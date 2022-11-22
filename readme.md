@@ -2,12 +2,17 @@
 
 ## Description
 
+<img src="./assets/Hoiseon_SEO_Optimization.png" alt="Horiseon SEO Optimisation page" width="20%" height="20%" >
+<br>
 This project is the Week 1 challenge, where I have had to update an existing project with the following chnages required:
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
+
+Website: https://github.com/LapworthAaron/week1_challenge
+<br>Repository: https://github.com/LapworthAaron/week1_challenge
 
 ## Table of Contents (Optional)
 
@@ -20,16 +25,16 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-No installation required
+Install folder structure as is, into your root directory, then you're good to go.
 
 ## Usage
 
-This project has no special usage instructions
+This project has no special usage instructions, it's a simple website.
 
 ## Credits
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-Changes by Aaron Lapworth
+Changes by Aaron Lapworth.
 
 ## License
 
