@@ -2,17 +2,27 @@
 
 ## Description
 
-<img src="./assets/Hoiseon_SEO_Optimization.png" alt="Horiseon SEO Optimisation page" width="20%" height="20%" >
+<img src="./assets/images/Hoiseon_SEO_Optimization.png" alt="Horiseon SEO Optimisation page" width="20%" height="20%" >
 <br>
-This project is the Week 1 challenge, where I have had to update an existing project with the following chnages required:
+This project was to update a marketing agency's website to conform to accessibility standards and that it's optimised for SEO, this was to be accomplished by completing the following:
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-Website: https://github.com/LapworthAaron/week1_challenge
+Website: https://lapworthaaron.github.io/week1_challenge/#search-engine-optimization
 <br>Repository: https://github.com/LapworthAaron/week1_challenge
+
+This that I changed:
+* Consolidated some of the CSS elements, as they were doing the same thing (DRY)
+* Gave the SEO div an id, to fix the navigation link
+* Updated the HTML tags to be semantic
+* add alt text to all the images for screen readers
+* Ensured the heading elements were in semantic order
+* Updated website title
+
+Consolidating CSS was a new thing i learnt during this process, as well as semantic HTML elements.
 
 ## Table of Contents (Optional)
 
@@ -33,6 +43,8 @@ This project has no special usage instructions, it's a simple website.
 
 ## Credits
 
+Thanks to W3Schools for their resources on Semantic HTML.
+Also thanks to my classmates for their helpful discussions during the Friday office hours.
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 Changes by Aaron Lapworth.
 
